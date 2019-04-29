@@ -1,0 +1,5 @@
+site_name: 区块链学习资源
+nav:
+  - 首页: index.md
+  - Solidity在线IDE: remix-ide-cn.md
+theme: readthedocs
